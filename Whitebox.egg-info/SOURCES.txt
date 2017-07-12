@@ -1,0 +1,6 @@
+Whitebox.egg-info/PKG-INFO
+Whitebox.egg-info/SOURCES.txt
+Whitebox.egg-info/dependency_links.txt
+Whitebox.egg-info/top_level.txt
+whitebox/__init__.py
+whitebox/base.py
